@@ -1,0 +1,14 @@
+/home/vincedev/Code/Notes.CLI/Notes.CLI/bin/Debug/net8.0/Notes.CLI
+/home/vincedev/Code/Notes.CLI/Notes.CLI/bin/Debug/net8.0/Notes.CLI.deps.json
+/home/vincedev/Code/Notes.CLI/Notes.CLI/bin/Debug/net8.0/Notes.CLI.runtimeconfig.json
+/home/vincedev/Code/Notes.CLI/Notes.CLI/bin/Debug/net8.0/Notes.CLI.dll
+/home/vincedev/Code/Notes.CLI/Notes.CLI/bin/Debug/net8.0/Notes.CLI.pdb
+/home/vincedev/Code/Notes.CLI/Notes.CLI/obj/Debug/net8.0/Notes.CLI.GeneratedMSBuildEditorConfig.editorconfig
+/home/vincedev/Code/Notes.CLI/Notes.CLI/obj/Debug/net8.0/Notes.CLI.AssemblyInfoInputs.cache
+/home/vincedev/Code/Notes.CLI/Notes.CLI/obj/Debug/net8.0/Notes.CLI.AssemblyInfo.cs
+/home/vincedev/Code/Notes.CLI/Notes.CLI/obj/Debug/net8.0/Notes.CLI.csproj.CoreCompileInputs.cache
+/home/vincedev/Code/Notes.CLI/Notes.CLI/obj/Debug/net8.0/Notes.CLI.dll
+/home/vincedev/Code/Notes.CLI/Notes.CLI/obj/Debug/net8.0/refint/Notes.CLI.dll
+/home/vincedev/Code/Notes.CLI/Notes.CLI/obj/Debug/net8.0/Notes.CLI.pdb
+/home/vincedev/Code/Notes.CLI/Notes.CLI/obj/Debug/net8.0/Notes.CLI.genruntimeconfig.cache
+/home/vincedev/Code/Notes.CLI/Notes.CLI/obj/Debug/net8.0/ref/Notes.CLI.dll
